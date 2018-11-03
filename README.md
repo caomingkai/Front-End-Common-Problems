@@ -1,14 +1,14 @@
 # Front End Common Problems
 
-🤔Notes for common front-end / full-stack problems in interviews, covering:
-- common algorithms implementation in JavaScript, 
-- design patterns, JavaScript basics,  
-- Node.js basics, 
+Notes for common front-end / full-stack problems in interviews, covering:
+- Common algorithms implementation in JavaScript, 
+- Design patterns, JavaScript basics,  
+- Node.js/Express basics, 
 - React/Redux/Flux basics, 
 - ES6 new features, 
-- common code snippets in front end development 
+- Common code snippets in front end development 
 
-🔗Check out my personal blog for a better experience: https://caomingkai.github.io/
+🏄Check out my personal blog for a better experience: https://caomingkai.github.io/
 
 
 
